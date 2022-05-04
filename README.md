@@ -22,4 +22,6 @@ The explanations require GradCAM to be installed. See https://github.com/jacobgi
 See `experiment_1.py`, `experiment_2.py`,`experiment_3.py` for the experiments used in the article.
 
 # Citation
-"**Improve the Deep Learning Models in Forestry Based on Explanations and Expertise**" by _Ximeng Cheng, Ali Doosthosseini and Julian Kunkel (2022)_
+Please consider citing our paper if it helps in your work:
+
+Ximeng Cheng, Ali Doosthosseini, & Julian Kunkel (2022). Improve the Deep Learning Models in Forestry Based on Explanations and Expertise. Frontiers in Plant Science. 13:902105. [DOI](https://doi.org/10.3389/fpls.2022.902105)
