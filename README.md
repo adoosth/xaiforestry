@@ -1,6 +1,6 @@
 # Improve the Deep Learning Models in Forestry Based on Explanations and Expertise
 
-Code and data for the article "**Improve the Deep Learning Models in Forestry Based on Explanations and Expertise**" by _Ximeng Cheng, Ali Doosthosseini and Julian Kunkel (2022)_.
+Code and data for the article "**Improve the Deep Learning Models in Forestry Based on Explanations and Expertise**" by _Ximeng Cheng, Ali Doosthosseini and Julian Kunkel (2022)_. (https://doi.org/10.3389/fpls.2022.902105)
 
 # Requirements
 
